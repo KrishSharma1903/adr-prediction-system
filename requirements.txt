@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost==3.4.1
+shap==0.52.0
+matplotlib
+jupyter
+streamlit
+joblib
+pyarrow
