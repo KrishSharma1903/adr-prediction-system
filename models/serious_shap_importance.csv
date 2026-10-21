@@ -1,0 +1,810 @@
+,feature,importance,effect_when_present,pushes_towards
+n_other_reactions,Unlisted reactions,0.8082,,depends on value
+n_drugs,Number of drugs,0.36968,,depends on value
+ing_DUPILUMAB,Dupilumab,0.32375,-2.11858,non-serious
+age_years,Age,0.22211,,depends on value
+n_reactions,Number of reactions,0.11209,,depends on value
+rx_Pneumonia,Reaction: Pneumonia,0.10949,2.91533,serious
+ing_TIRZEPATIDE,Tirzepatide,0.07423,-1.31113,non-serious
+rx_Product_dose_omission_issue,Reaction: Product dose omission issue,0.06763,-0.78122,non-serious
+rx_No_adverse_event,Reaction: No adverse event,0.0653,-2.77751,non-serious
+sex_M,Male,0.06113,0.0906,serious
+age_missing,Age not reported,0.05293,-0.06336,non-serious
+rx_Seizure,Reaction: Seizure,0.05243,3.1998,serious
+rx_Cerebrovascular_accident,Reaction: Cerebrovascular accident,0.04344,3.91698,serious
+rx_Fatigue,Reaction: Fatigue,0.04025,-0.37224,non-serious
+ing_CABOZANTINIB_S_MALATE,Cabozantinib S-Malate,0.03804,-1.38411,non-serious
+rx_Malignant_neoplasm_progression,Reaction: Malignant neoplasm progression,0.03705,3.6048,serious
+rx_Acute_kidney_injury,Reaction: Acute kidney injury,0.03676,3.3791,serious
+ing_VEDOLIZUMAB,Vedolizumab,0.03334,1.3401,serious
+rx_Myelosuppression,Reaction: Myelosuppression,0.0317,3.66675,serious
+ing_SOMATROPIN,Somatropin,0.03109,-1.3005,non-serious
+rx_Toxicity_to_various_agents,Reaction: Toxicity to various agents,0.03013,1.99822,serious
+ing_LENALIDOMIDE,Lenalidomide,0.02985,-0.71975,non-serious
+rx_Fall,Reaction: Fall,0.02962,0.84997,serious
+rx_Neutropenia,Reaction: Neutropenia,0.02917,2.49662,serious
+rx_Injection_site_pain,Reaction: Injection site pain,0.02896,-0.78045,non-serious
+rx_Loss_of_consciousness,Reaction: Loss of consciousness,0.02814,3.00984,serious
+rx_Drug_abuse,Reaction: Drug abuse,0.02814,3.56514,serious
+ing_INSULIN_GLARGINE,Insulin Glargine,0.02806,-1.50019,non-serious
+rx_Crohn_s_disease,Reaction: Crohn's disease,0.02796,2.84489,serious
+rx_Drug_dose_omission_by_device,Reaction: Drug dose omission by device,0.02788,-1.17054,non-serious
+ing_LEUPROLIDE_ACETATE,Leuprolide Acetate,0.02759,-1.04798,non-serious
+ing_INFLIXIMAB_DYYB,Infliximab-Dyyb,0.02747,2.3411,serious
+rx_Lower_respiratory_tract_infection,Reaction: Lower respiratory tract infection,0.02638,3.1008,serious
+rx_Suicidal_ideation,Reaction: Suicidal ideation,0.02539,3.54093,serious
+rx_Rheumatoid_arthritis,Reaction: Rheumatoid arthritis,0.02521,2.06446,serious
+ing_SEMAGLUTIDE,Semaglutide,0.02472,1.37527,serious
+rx_Colitis_ulcerative,Reaction: Colitis ulcerative,0.02464,2.72455,serious
+rx_Myocardial_infarction,Reaction: Myocardial infarction,0.02362,3.76965,serious
+rx_Neoplasm_malignant,Reaction: Neoplasm malignant,0.02309,4.00439,serious
+rx_Anaphylactic_reaction,Reaction: Anaphylactic reaction,0.02298,3.01373,serious
+rx_Neuropathy_peripheral,Reaction: Neuropathy peripheral,0.02275,2.32048,serious
+rx_Incorrect_dose_administered,Reaction: Incorrect dose administered,0.0227,-0.6416,non-serious
+rx_Disease_progression,Reaction: Disease progression,0.02252,1.93173,serious
+rx_Cardiac_failure,Reaction: Cardiac failure,0.02163,3.32751,serious
+rx_Renal_impairment,Reaction: Renal impairment,0.02154,2.94107,serious
+rx_Dyspnoea,Reaction: Dyspnoea,0.02072,0.32079,serious
+rx_Thrombocytopenia,Reaction: Thrombocytopenia,0.02061,2.50401,serious
+ing_TREPROSTINIL,Treprostinil,0.02044,-0.96538,non-serious
+rx_Sepsis,Reaction: Sepsis,0.02039,3.01016,serious
+rx_Syncope,Reaction: Syncope,0.02027,2.66561,serious
+rx_Hallucination,Reaction: Hallucination,0.02027,3.16311,serious
+rx_Renal_failure,Reaction: Renal failure,0.02018,3.04271,serious
+rx_Atrial_fibrillation,Reaction: Atrial fibrillation,0.0196,2.9273,serious
+ing_CERTOLIZUMAB_PEGOL,Certolizumab Pegol,0.01935,2.4702,serious
+rx_Thrombosis,Reaction: Thrombosis,0.01905,3.10229,serious
+ing_BUPROPION_HYDROCHLORIDE_NALTREXONE_HYDROCHLORIDE,Bupropion Hydrochloride + Naltrexone Hydrochloride,0.0188,-2.37834,non-serious
+ing_METHOTREXATE,Methotrexate,0.01865,0.87863,serious
+rx_Cataract,Reaction: Cataract,0.01864,2.6271,serious
+ing_RELUGOLIX,Relugolix,0.0184,-0.86912,non-serious
+rx_Surgery,Reaction: Surgery,0.01837,2.36476,serious
+ing_RISANKIZUMAB_RZAA,Risankizumab-Rzaa,0.01749,0.78765,serious
+ing_FINASTERIDE,Finasteride,0.01721,-1.12191,non-serious
+rx_Pulmonary_embolism,Reaction: Pulmonary embolism,0.01719,3.34549,serious
+rx_Pyrexia,Reaction: Pyrexia,0.01704,0.50975,serious
+ing_TOFACITINIB_CITRATE,Tofacitinib Citrate,0.01689,-0.83587,non-serious
+ing_ABATACEPT,Abatacept,0.01687,-1.28694,non-serious
+ing_CENOBAMATE,Cenobamate,0.01679,-1.74437,non-serious
+rx_Cardiac_arrest,Reaction: Cardiac arrest,0.01675,3.4633,serious
+rx_Drug_ineffective,Reaction: Drug ineffective,0.01655,-0.06361,non-serious
+rx_Wrong_technique_in_product_usage_process,Reaction: Wrong technique in product usage process,0.0163,-0.7442,non-serious
+ing_PREDNISOLONE,Prednisolone,0.01613,1.53958,serious
+rx_Diabetes_mellitus,Reaction: Diabetes mellitus,0.01605,2.86666,serious
+ing_SODIUM_OXYBATE,Sodium Oxybate,0.01596,-1.6381,non-serious
+rx_Off_label_use,Reaction: Off label use,0.01596,-0.07152,non-serious
+rx_Haematochezia,Reaction: Haematochezia,0.01584,2.47757,serious
+rx_Drug_induced_liver_injury,Reaction: Drug-induced liver injury,0.01572,3.25318,serious
+rx_Nausea,Reaction: Nausea,0.01558,-0.1633,non-serious
+ing_LEVONORGESTREL,Levonorgestrel,0.01539,-1.5454,non-serious
+n_other_drugs,Unlisted drugs,0.01519,,depends on value
+rx_Psoriatic_arthropathy,Reaction: Psoriatic arthropathy,0.01513,2.31795,serious
+ing_RITUXIMAB,Rituximab,0.01484,0.99675,serious
+rx_Drug_dependence,Reaction: Drug dependence,0.01473,3.41708,serious
+ing_ADAPALENE,Adapalene,0.01464,-2.96264,non-serious
+rx_Systemic_lupus_erythematosus,Reaction: Systemic lupus erythematosus,0.01438,2.91206,serious
+ing_PEMBROLIZUMAB,Pembrolizumab,0.0139,0.63375,serious
+rx_Febrile_neutropenia,Reaction: Febrile neutropenia,0.01358,2.72473,serious
+ing_INSULIN_LISPRO,Insulin Lispro,0.01342,-1.22726,non-serious
+rx_Headache,Reaction: Headache,0.01321,-0.1866,non-serious
+rx_Blindness,Reaction: Blindness,0.01308,3.99189,serious
+rx_Condition_aggravated,Reaction: Condition aggravated,0.01297,0.26167,serious
+sex_Unknown,Sex not reported,0.01287,-0.00758,non-serious
+ing_DAPAGLIFLOZIN,Dapagliflozin,0.0127,2.18042,serious
+ing_PALBOCICLIB,Palbociclib,0.01268,-0.87098,non-serious
+rx_Nephrolithiasis,Reaction: Nephrolithiasis,0.01266,2.74308,serious
+rx_Intestinal_obstruction,Reaction: Intestinal obstruction,0.01262,2.99136,serious
+ing_INFLIXIMAB,Infliximab,0.01251,1.00909,serious
+rx_Infection,Reaction: Infection,0.01247,0.71828,serious
+rx_Product_storage_error,Reaction: Product storage error,0.01246,-1.19325,non-serious
+rx_Accidental_exposure_to_product,Reaction: Accidental exposure to product,0.0123,-0.86969,non-serious
+rx_Gastrointestinal_haemorrhage,Reaction: Gastrointestinal haemorrhage,0.01223,2.78012,serious
+rx_Pancytopenia,Reaction: Pancytopenia,0.01181,2.98206,serious
+rx_Intentional_overdose,Reaction: Intentional overdose,0.01176,2.49892,serious
+ing_OCRELIZUMAB,Ocrelizumab,0.01162,-0.95528,non-serious
+rx_Device_leakage,Reaction: Device leakage,0.0116,-0.82308,non-serious
+rx_Respiratory_failure,Reaction: Respiratory failure,0.01149,2.78575,serious
+rx_Foetal_exposure_during_pregnancy,Reaction: Foetal exposure during pregnancy,0.01141,2.0687,serious
+ing_DULAGLUTIDE,Dulaglutide,0.01139,-1.24391,non-serious
+ing_CYCLOPHOSPHAMIDE,Cyclophosphamide,0.01132,1.06021,serious
+rx_Interstitial_lung_disease,Reaction: Interstitial lung disease,0.01131,3.1665,serious
+rx_Anaemia,Reaction: Anaemia,0.01128,0.80235,serious
+rx_Cardiac_disorder,Reaction: Cardiac disorder,0.01123,1.42161,serious
+sex_F,Female,0.01118,-0.00438,non-serious
+rx_Pruritus,Reaction: Pruritus,0.01117,-0.17443,non-serious
+rx_Liver_injury,Reaction: Liver injury,0.0111,2.42876,serious
+ing_PEGFILGRASTIM,Pegfilgrastim,0.01104,-2.15431,non-serious
+rx_Abdominal_pain,Reaction: Abdominal pain,0.01101,0.50278,serious
+rx_Cytokine_release_syndrome,Reaction: Cytokine release syndrome,0.01097,2.62743,serious
+ing_UPADACITINIB,Upadacitinib,0.01088,0.41502,serious
+rx_Device_issue,Reaction: Device issue,0.01083,-0.895,non-serious
+rx_Diarrhoea,Reaction: Diarrhoea,0.01066,-0.13477,non-serious
+ing_CARBOPLATIN,Carboplatin,0.01041,0.63708,serious
+ing_LEVETIRACETAM,Levetiracetam,0.01034,-0.61142,non-serious
+rx_Dermatitis_atopic,Reaction: Dermatitis atopic,0.01027,-0.5222,non-serious
+rx_Hypertension,Reaction: Hypertension,0.01021,0.39781,serious
+ing_VOCLOSPORIN,Voclosporin,0.01019,-1.84577,non-serious
+ing_ALBUTEROL_SULFATE,Albuterol Sulfate,0.01008,-0.52978,non-serious
+rx_Nasopharyngitis,Reaction: Nasopharyngitis,0.01007,-0.25908,non-serious
+rx_Product_use_in_unapproved_indication,Reaction: Product use in unapproved indication,0.0099,-0.23196,non-serious
+ing_POMALIDOMIDE,Pomalidomide,0.00981,-0.85222,non-serious
+ing_NIRMATRELVIR_RITONAVIR,Nirmatrelvir + Ritonavir,0.00962,-1.52889,non-serious
+rx_Hypotension,Reaction: Hypotension,0.00961,0.63544,serious
+ing_SARILUMAB,Sarilumab,0.00959,-1.36203,non-serious
+rx_Hot_flush,Reaction: Hot flush,0.00957,-0.51071,non-serious
+rx_Drug_effective_for_unapproved_indication,Reaction: Drug effective for unapproved indication,0.00954,-1.14353,non-serious
+rx_Vomiting,Reaction: Vomiting,0.00932,0.1757,serious
+ing_IBRUTINIB,Ibrutinib,0.00928,1.65587,serious
+ing_MYCOPHENOLATE_MOFETIL,Mycophenolate Mofetil,0.00914,0.87489,serious
+ing_PACLITAXEL,Paclitaxel,0.00902,0.82828,serious
+rx_Rectal_haemorrhage,Reaction: Rectal haemorrhage,0.00898,2.24735,serious
+rx_Colitis,Reaction: Colitis,0.0089,2.24276,serious
+ing_OXALIPLATIN,Oxaliplatin,0.00879,1.19267,serious
+rx_Dizziness,Reaction: Dizziness,0.00873,-0.16128,non-serious
+rx_Hyponatraemia,Reaction: Hyponatraemia,0.00857,1.79456,serious
+rx_Dry_skin,Reaction: Dry skin,0.00851,-0.51511,non-serious
+rx_Asthma,Reaction: Asthma,0.00838,0.41757,serious
+rx_Feeling_abnormal,Reaction: Feeling abnormal,0.00833,-0.40095,non-serious
+ing_EVOLOCUMAB,Evolocumab,0.00824,-0.72503,non-serious
+rx_Oxygen_saturation_decreased,Reaction: Oxygen saturation decreased,0.00823,1.08299,serious
+ing_VENETOCLAX,Venetoclax,0.00795,1.09097,serious
+ing_PIMAVANSERIN_TARTRATE,Pimavanserin Tartrate,0.00791,-0.46436,non-serious
+ing_COPPER,Copper,0.00785,-1.01914,non-serious
+ing_SERTRALINE_HYDROCHLORIDE,Sertraline Hydrochloride,0.00774,0.56978,serious
+rx_Rash,Reaction: Rash,0.00756,-0.14449,non-serious
+rx_Septic_shock,Reaction: Septic shock,0.00754,2.33084,serious
+rx_Maternal_exposure_during_pregnancy,Reaction: Maternal exposure during pregnancy,0.00754,0.52824,serious
+rx_Overdose,Reaction: Overdose,0.00752,0.75546,serious
+ing_HUMAN_IMMUNOGLOBULIN_G,Human Immunoglobulin G,0.00736,0.30299,serious
+rx_Dehydration,Reaction: Dehydration,0.00734,0.61603,serious
+ing_ATEZOLIZUMAB,Atezolizumab,0.00733,1.51556,serious
+ing_AVAPRITINIB,Avapritinib,0.00717,-1.68968,non-serious
+ing_CABOTEGRAVIR,Cabotegravir,0.00713,-1.84653,non-serious
+rx_General_physical_health_deterioration,Reaction: General physical health deterioration,0.00707,0.46252,serious
+ing_PREDNISONE,Prednisone,0.00695,0.19359,serious
+rx_Tachycardia,Reaction: Tachycardia,0.00686,0.79355,serious
+rx_Adverse_drug_reaction,Reaction: Adverse drug reaction,0.00686,-0.49445,non-serious
+rx_Urinary_tract_infection,Reaction: Urinary tract infection,0.00679,0.32714,serious
+ing_IXEKIZUMAB,Ixekizumab,0.00679,-1.43565,non-serious
+ing_ADALIMUMAB,Adalimumab,0.00676,0.0748,serious
+ing_AMPHETAMINE_ASPARTATE_AMPHETAMINE_SULFATE_DEXTROAMPHETAMINE_SACCHARATE_DEXTROAMPHETAMINE_SULFATE,Amphetamine Aspartate + Amphetamine Sulfate + Dextroamphetamine Saccharate + Dextroamphetamine Sulfate,0.00673,-1.13558,non-serious
+rx_Weight_increased,Reaction: Weight increased,0.00671,-0.23498,non-serious
+ing_NIVOLUMAB,Nivolumab,0.00667,0.51167,serious
+ing_CLOZAPINE,Clozapine,0.00662,0.45886,serious
+ing_MINOXIDIL,Minoxidil,0.00659,-1.56721,non-serious
+rx_Pleural_effusion,Reaction: Pleural effusion,0.00651,1.48056,serious
+rx_Abdominal_discomfort,Reaction: Abdominal discomfort,0.00649,-0.29686,non-serious
+rx_Therapy_interrupted,Reaction: Therapy interrupted,0.00647,-0.27063,non-serious
+rx_Insomnia,Reaction: Insomnia,0.00646,-0.27047,non-serious
+ing_DEXAMETHASONE,Dexamethasone,0.00637,0.40703,serious
+ing_ESTRADIOL,Estradiol,0.00629,-1.08245,non-serious
+ing_ATORVASTATIN,Atorvastatin,0.00627,0.325,serious
+ing_OFATUMUMAB,Ofatumumab,0.00624,0.83387,serious
+ing_BEVACIZUMAB,Bevacizumab,0.00622,0.63235,serious
+rx_Device_delivery_system_issue,Reaction: Device delivery system issue,0.00621,-0.56723,non-serious
+ing_FRUQUINTINIB,Fruquintinib,0.00616,2.24583,serious
+rx_Hypokalaemia,Reaction: Hypokalaemia,0.00615,1.75895,serious
+ing_OSIMERTINIB,Osimertinib,0.00613,1.64762,serious
+rx_Medication_error,Reaction: Medication error,0.00603,1.6807,serious
+ing_APREMILAST,Apremilast,0.00593,-0.98869,non-serious
+ing_DICLOFENAC_SODIUM,Diclofenac Sodium,0.00593,-0.89851,non-serious
+rx_Injection_site_erythema,Reaction: Injection site erythema,0.00589,-0.63257,non-serious
+rx_Leukopenia,Reaction: Leukopenia,0.00588,1.70381,serious
+rx_Type_2_diabetes_mellitus,Reaction: Type 2 diabetes mellitus,0.00584,1.52431,serious
+ing_DURVALUMAB,Durvalumab,0.00584,1.62566,serious
+rx_Wrong_technique_in_device_usage_process,Reaction: Wrong technique in device usage process,0.00576,-0.68989,non-serious
+ing_RIBOCICLIB,Ribociclib,0.00573,0.78842,serious
+rx_Arthropathy,Reaction: Arthropathy,0.00571,0.98646,serious
+rx_Product_quality_issue,Reaction: Product quality issue,0.00569,-0.94688,non-serious
+ing_BIMEKIZUMAB_BKZX,Bimekizumab-Bkzx,0.00561,-0.70254,non-serious
+rx_Alopecia,Reaction: Alopecia,0.00559,-0.30051,non-serious
+ing_SPARSENTAN,Sparsentan,0.00559,-1.39986,non-serious
+rx_Drug_hypersensitivity,Reaction: Drug hypersensitivity,0.00557,-0.30159,non-serious
+ing_GALCANEZUMAB_GNLM,Galcanezumab-Gnlm,0.00553,-1.41838,non-serious
+ing_CETIRIZINE_HYDROCHLORIDE,Cetirizine Hydrochloride,0.00552,-0.44858,non-serious
+ing_GUSELKUMAB,Guselkumab,0.00552,-0.65749,non-serious
+rx_Multiple_sclerosis,Reaction: Multiple sclerosis,0.00548,0.7087,serious
+rx_Haemoglobin_decreased,Reaction: Haemoglobin decreased,0.00547,0.55071,serious
+ing_ETONOGESTREL,Etonogestrel,0.00533,1.87229,serious
+ing_ONABOTULINUMTOXINA,Onabotulinumtoxina,0.00521,-0.8162,non-serious
+rx_Injection_site_haemorrhage,Reaction: Injection site haemorrhage,0.00514,-0.75711,non-serious
+rx_Chronic_obstructive_pulmonary_disease,Reaction: Chronic obstructive pulmonary disease,0.00511,1.01174,serious
+ing_TRASTUZUMAB,Trastuzumab,0.00507,0.8865,serious
+ing_TRALOKINUMAB_LDRM,Tralokinumab-Ldrm,0.00504,-1.23493,non-serious
+ing_TROFINETIDE,Trofinetide,0.00503,-1.1927,non-serious
+ing_PERFLUTREN,Perflutren,0.00496,-1.44537,non-serious
+ing_GABAPENTIN,Gabapentin,0.00494,-0.31711,non-serious
+ing_LUTETIUM_LU_177_VIPIVOTIDE_TETRAXETAN,Lutetium Lu-177 Vipivotide Tetraxetan,0.00493,-1.04865,non-serious
+rx_Road_traffic_accident,Reaction: Road traffic accident,0.00488,0.88317,serious
+ing_AMIKACIN,Amikacin,0.0048,2.04054,serious
+rx_Cellulitis,Reaction: Cellulitis,0.00474,1.07128,serious
+ing_DIROXIMEL_FUMARATE,Diroximel Fumarate,0.00465,-0.83498,non-serious
+rx_Product_complaint,Reaction: Product complaint,0.00456,-0.97119,non-serious
+ing_TOLVAPTAN,Tolvaptan,0.00456,2.17151,serious
+ing_PANCRELIPASE_AMYLASE_PANCRELIPASE_LIPASE_PANCRELIPASE_PROTEASE,Pancrelipase Amylase + Pancrelipase Lipase + Pancrelipase Protease,0.00452,0.76411,serious
+rx_Extra_dose_administered,Reaction: Extra dose administered,0.00451,-0.75624,non-serious
+ing_AMIFAMPRIDINE_PHOSPHATE,Amifampridine Phosphate,0.00444,-2.13521,non-serious
+ing_PRABOTULINUMTOXINA_XVFS,Prabotulinumtoxina-Xvfs,0.00441,-2.00563,non-serious
+rx_Chest_pain,Reaction: Chest pain,0.00441,0.27942,serious
+rx_Device_malfunction,Reaction: Device malfunction,0.00439,-0.51164,non-serious
+rx_Adverse_event,Reaction: Adverse event,0.00434,0.28568,serious
+rx_Device_defective,Reaction: Device defective,0.00433,-0.8517,non-serious
+ing_OZANIMOD_HYDROCHLORIDE,Ozanimod Hydrochloride,0.00429,-1.71001,non-serious
+ing_ANTIHEMOPHILIC_FACTOR_HUMAN_RECOMBINANT,"Antihemophilic Factor, Human Recombinant",0.00428,1.44529,serious
+ing_TISLELIZUMAB,Tislelizumab,0.00427,1.70694,serious
+ing_LEVOTHYROXINE_SODIUM,Levothyroxine Sodium,0.00427,-0.3894,non-serious
+rx_Influenza,Reaction: Influenza,0.00425,0.12555,serious
+ing_POTASSIUM_NITRATE_SODIUM_FLUORIDE,Potassium Nitrate + Sodium Fluoride,0.0042,-2.61283,non-serious
+rx_Blood_pressure_increased,Reaction: Blood pressure increased,0.00418,0.20919,serious
+ing_BIMEKIZUMAB,Bimekizumab,0.00414,1.38989,serious
+ing_FLUTICASONE_FUROATE_UMECLIDINIUM_BROMIDE_VILANTEROL_TRIFENATATE,Fluticasone Furoate + Umeclidinium Bromide + Vilanterol Trifenatate,0.00413,-0.51032,non-serious
+ing_ACETAMINOPHEN,Acetaminophen,0.00413,0.07499,serious
+rx_Incorrect_dose_administered_by_device,Reaction: Incorrect dose administered by device,0.00412,-0.60722,non-serious
+rx_Device_breakage,Reaction: Device breakage,0.00412,0.32321,serious
+ing_INSULIN_ASPART,Insulin Aspart,0.00409,0.9516,serious
+rx_Lung_disorder,Reaction: Lung disorder,0.00407,0.67121,serious
+rx_Eye_irritation,Reaction: Eye irritation,0.00407,-0.80584,non-serious
+ing_BORTEZOMIB,Bortezomib,0.00398,0.66831,serious
+ing_FLUOROURACIL,Fluorouracil,0.00398,0.72743,serious
+ing_NEMOLIZUMAB_ILTO,Nemolizumab-Ilto,0.00397,-1.4328,non-serious
+rx_Exposure_during_pregnancy,Reaction: Exposure during pregnancy,0.00387,0.54535,serious
+rx_Arthralgia,Reaction: Arthralgia,0.00371,-0.06886,non-serious
+rx_Drug_effect_less_than_expected,Reaction: Drug effect less than expected,0.00369,-0.65531,non-serious
+ing_FENFLURAMINE,Fenfluramine,0.00369,1.75297,serious
+ing_RAVULIZUMAB_CWVZ,Ravulizumab-Cwvz,0.00363,0.80424,serious
+ing_NATALIZUMAB,Natalizumab,0.00358,-0.58995,non-serious
+ing_BUDESONIDE_FORMOTEROL_GLYCOPYRROLATE,Budesonide + Formoterol + Glycopyrrolate,0.00356,-0.73674,non-serious
+rx_Product_use_issue,Reaction: Product use issue,0.00348,-0.11029,non-serious
+ing_TACROLIMUS,Tacrolimus,0.00347,0.21826,serious
+ing_EPTINEZUMAB_JJMR,Eptinezumab-Jjmr,0.00347,-0.80687,non-serious
+ing_POLYETHYLENE_GLYCOL_3350,Polyethylene Glycol 3350,0.00346,-1.09268,non-serious
+ing_EMICIZUMAB_KXWH,Emicizumab-Kxwh,0.00345,-0.80556,non-serious
+ing_ABEMACICLIB,Abemaciclib,0.00341,-0.46288,non-serious
+ing_OLAPARIB,Olaparib,0.00341,1.36357,serious
+ing_APIXABAN,Apixaban,0.0034,-0.1489,non-serious
+ing_DARATUMUMAB,Daratumumab,0.00337,0.63474,serious
+ing_RUXOLITINIB,Ruxolitinib,0.00336,-0.38716,non-serious
+ing_ISOTRETINOIN,Isotretinoin,0.00336,-0.64305,non-serious
+ing_RITUXIMAB_PVVR,Rituximab-Pvvr,0.00334,1.36062,serious
+rx_Nasal_congestion,Reaction: Nasal congestion,0.00333,-0.35337,non-serious
+rx_Injection_site_bruising,Reaction: Injection site bruising,0.00329,-0.39567,non-serious
+rx_Product_dose_omission_in_error,Reaction: Product dose omission in error,0.00329,-0.29316,non-serious
+ing_ESKETAMINE,Esketamine,0.00323,0.65128,serious
+rx_Injection_site_pruritus,Reaction: Injection site pruritus,0.00321,-0.58954,non-serious
+ing_RUXOLITINIB_PHOSPHATE,Ruxolitinib Phosphate,0.0032,-1.38033,non-serious
+rx_Inappropriate_schedule_of_product_administration,Reaction: Inappropriate schedule of product administration,0.00319,-0.04883,non-serious
+ing_TEDUGLUTIDE,Teduglutide,0.00318,0.80538,serious
+ing_DIPHENHYDRAMINE_HYDROCHLORIDE,Diphenhydramine Hydrochloride,0.00312,-0.49006,non-serious
+ing_OLANZAPINE,Olanzapine,0.00312,0.56063,serious
+ing_BENRALIZUMAB,Benralizumab,0.00305,0.6743,serious
+ing_VAMOROLONE,Vamorolone,0.00305,-2.02854,non-serious
+rx_Pain,Reaction: Pain,0.00304,-0.03861,non-serious
+ing_QUETIAPINE,Quetiapine,0.00303,0.87284,serious
+ing_ETANERCEPT,Etanercept,0.00302,-0.25638,non-serious
+ing_BISOPROLOL,Bisoprolol,0.00294,0.86663,serious
+ing_MAVACAMTEN,Mavacamten,0.00291,-1.02935,non-serious
+ing_DROSPIRENONE,Drospirenone,0.00289,-1.78958,non-serious
+rx_Needle_issue,Reaction: Needle issue,0.00289,-0.66277,non-serious
+rx_Cough,Reaction: Cough,0.00288,-0.06356,non-serious
+rx_Rhinorrhoea,Reaction: Rhinorrhoea,0.00288,-0.31522,non-serious
+ing_SECUKINUMAB,Secukinumab,0.00286,-0.21279,non-serious
+ing_NICOTINE,Nicotine,0.00284,-1.16026,non-serious
+ing_ESOMEPRAZOLE_MAGNESIUM,Esomeprazole Magnesium,0.00282,-0.78836,non-serious
+rx_Confusional_state,Reaction: Confusional state,0.00282,0.2056,serious
+ing_ARIPIPRAZOLE,Aripiprazole,0.00274,0.37255,serious
+ing_LOPERAMIDE_HYDROCHLORIDE,Loperamide Hydrochloride,0.00273,-0.86654,non-serious
+ing_TEZEPELUMAB,Tezepelumab,0.00272,2.29571,serious
+ing_ABALOPARATIDE,Abaloparatide,0.00271,1.18515,serious
+ing_CIPROFLOXACIN,Ciprofloxacin,0.00271,0.79661,serious
+rx_Platelet_count_decreased,Reaction: Platelet count decreased,0.00266,0.21581,serious
+rx_Liver_disorder,Reaction: Liver disorder,0.00266,0.54122,serious
+ing_LUMATEPERONE,Lumateperone,0.00265,-1.26391,non-serious
+ing_LECANEMAB_IRMB,Lecanemab-Irmb,0.00263,-0.82205,non-serious
+ing_ZOLEDRONIC_ACID,Zoledronic Acid,0.00263,0.47961,serious
+ing_EPINEPHRINE,Epinephrine,0.00261,-0.36756,non-serious
+ing_VONOPRAZAN_FUMARATE,Vonoprazan Fumarate,0.00257,-1.06243,non-serious
+rx_Osteoarthritis,Reaction: Osteoarthritis,0.00256,0.45557,serious
+ing_LANSOPRAZOLE,Lansoprazole,0.00256,0.78796,serious
+ing_BEMPEDOIC_ACID,Bempedoic Acid,0.00255,-1.23194,non-serious
+rx_COVID_19,Reaction: COVID-19,0.0025,0.0581,serious
+ing_ACALABRUTINIB,Acalabrutinib,0.00248,1.10221,serious
+ing_ECULIZUMAB,Eculizumab,0.00245,0.85199,serious
+rx_Underdose,Reaction: Underdose,0.00245,-0.34933,non-serious
+rx_Constipation,Reaction: Constipation,0.00245,-0.08946,non-serious
+rx_Device_mechanical_issue,Reaction: Device mechanical issue,0.00241,-0.43674,non-serious
+ing_CISPLATIN,Cisplatin,0.00239,0.61455,serious
+rx_C_reactive_protein_increased,Reaction: C-reactive protein increased,0.00239,0.60355,serious
+ing_PEMETREXED,Pemetrexed,0.00238,0.60729,serious
+ing_PEGVALIASE_PQPZ,Pegvaliase-Pqpz,0.00236,-1.12206,non-serious
+ing_LISINOPRIL,Lisinopril,0.00236,-0.34115,non-serious
+rx_Dysphagia,Reaction: Dysphagia,0.00235,0.21651,serious
+ing_HUMAN_C1_ESTERASE_INHIBITOR,Human C1-Esterase Inhibitor,0.00233,0.77686,serious
+rx_Injection_site_reaction,Reaction: Injection site reaction,0.00233,-0.42062,non-serious
+ing_OLOPATADINE_HYDROCHLORIDE,Olopatadine Hydrochloride,0.00231,-1.92831,non-serious
+ing_PREGABALIN,Pregabalin,0.0023,0.30409,serious
+ing_DOXORUBICIN,Doxorubicin,0.00229,0.77817,serious
+rx_Dysgeusia,Reaction: Dysgeusia,0.00225,-0.38695,non-serious
+rx_Ocular_hyperaemia,Reaction: Ocular hyperaemia,0.00223,-0.35855,non-serious
+ing_LEVOFLOXACIN,Levofloxacin,0.00221,0.6496,serious
+ing_TOCILIZUMAB,Tocilizumab,0.0022,-0.26872,non-serious
+ing_RIMEGEPANT_SULFATE,Rimegepant Sulfate,0.0022,-1.06369,non-serious
+rx_Acne,Reaction: Acne,0.00219,-0.48605,non-serious
+ing_PIPERACILLIN_SODIUM_TAZOBACTAM_SODIUM,Piperacillin Sodium + Tazobactam Sodium,0.00218,0.9999,serious
+ing_ATORVASTATIN_CALCIUM,Atorvastatin Calcium,0.00218,-0.35673,non-serious
+ing_TROSPIUM_CHLORIDE_XANOMELINE,Trospium Chloride + Xanomeline,0.00216,-1.16075,non-serious
+rx_Ill_defined_disorder,Reaction: Ill-defined disorder,0.00216,0.36145,serious
+rx_Blood_pressure_decreased,Reaction: Blood pressure decreased,0.00215,0.28109,serious
+rx_Neutrophil_count_decreased,Reaction: Neutrophil count decreased,0.00214,0.42833,serious
+ing_BUPRENORPHINE,Buprenorphine,0.00213,-0.60989,non-serious
+ing_ADALIMUMAB_AATY,Adalimumab-Aaty,0.0021,1.68799,serious
+ing_BUPROPION_HYDROCHLORIDE_DEXTROMETHORPHAN_HYDROBROMIDE,Bupropion Hydrochloride + Dextromethorphan Hydrobromide,0.0021,-1.49237,non-serious
+ing_LORATADINE,Loratadine,0.00208,-0.52383,non-serious
+rx_Eye_pruritus,Reaction: Eye pruritus,0.00207,-0.42295,non-serious
+rx_Drug_ineffective_for_unapproved_indication,Reaction: Drug ineffective for unapproved indication,0.00205,0.08343,serious
+ing_BUPROPION_HYDROCHLORIDE,Bupropion Hydrochloride,0.00205,-0.49797,non-serious
+ing_CANNABIDIOL,Cannabidiol,0.00204,1.00421,serious
+rx_Flatulence,Reaction: Flatulence,0.00203,-0.31876,non-serious
+ing_RAMIPRIL,Ramipril,0.00202,0.30421,serious
+ing_VORICONAZOLE,Voriconazole,0.00201,1.17826,serious
+rx_Disease_recurrence,Reaction: Disease recurrence,0.00201,0.35499,serious
+ing_IXAZOMIB,Ixazomib,0.00199,1.22721,serious
+ing_MESALAMINE,Mesalamine,0.00194,0.30721,serious
+rx_Oedema_peripheral,Reaction: Oedema peripheral,0.00193,0.22432,serious
+ing_SACITUZUMAB_GOVITECAN_HZIY,Sacituzumab Govitecan-Hziy,0.00193,1.14037,serious
+rx_Infusion_related_reaction,Reaction: Infusion related reaction,0.0019,0.15888,serious
+rx_Taste_disorder,Reaction: Taste disorder,0.00188,-0.27328,non-serious
+rx_Anxiety,Reaction: Anxiety,0.00187,-0.05653,non-serious
+ing_RIPRETINIB,Ripretinib,0.00186,-0.85938,non-serious
+ing_LENVATINIB,Lenvatinib,0.00186,0.23932,serious
+rx_Sinusitis,Reaction: Sinusitis,0.00183,-0.11004,non-serious
+rx_Drug_interaction,Reaction: Drug interaction,0.00182,0.11937,serious
+rx_Therapeutic_response_shortened,Reaction: Therapeutic response shortened,0.00181,-0.20163,non-serious
+ing_CABOTEGRAVIR_RILPIVIRINE,Cabotegravir + Rilpivirine,0.00181,-1.03452,non-serious
+ing_FEZOLINETANT,Fezolinetant,0.00181,-1.25256,non-serious
+ing_DICLOFENAC,Diclofenac,0.00179,0.53325,serious
+ing_LISDEXAMFETAMINE_DIMESYLATE,Lisdexamfetamine Dimesylate,0.00178,-0.47702,non-serious
+ing_CARIPRAZINE,Cariprazine,0.00177,-0.9866,non-serious
+ing_MEROPENEM,Meropenem,0.00172,1.02172,serious
+ing_MIRTAZAPINE,Mirtazapine,0.00172,0.42553,serious
+ing_DOXYCYCLINE,Doxycycline,0.0017,0.34112,serious
+ing_VANCOMYCIN,Vancomycin,0.0017,0.48544,serious
+ing_SACUBITRIL_VALSARTAN,Sacubitril + Valsartan,0.00167,0.36394,serious
+ing_AVACOPAN,Avacopan,0.00167,1.02826,serious
+ing_IMATINIB,Imatinib,0.00166,1.22277,serious
+ing_BELIMUMAB,Belimumab,0.00165,-0.25802,non-serious
+ing_CLARITHROMYCIN,Clarithromycin,0.00164,0.64362,serious
+ing_OMALIZUMAB,Omalizumab,0.00164,-0.02435,non-serious
+ing_VALBENAZINE,Valbenazine,0.00163,-0.9292,non-serious
+rx_Muscular_weakness,Reaction: Muscular weakness,0.00158,0.12095,serious
+rx_Product_prescribing_issue,Reaction: Product prescribing issue,0.00158,-0.12072,non-serious
+ing_TUCATINIB,Tucatinib,0.00155,-0.62234,non-serious
+rx_Decreased_appetite,Reaction: Decreased appetite,0.00153,0.04021,serious
+ing_FAMOTIDINE,Famotidine,0.00152,-0.23656,non-serious
+ing_CHOLECALCIFEROL,Cholecalciferol,0.00151,-0.23808,non-serious
+rx_Tremor,Reaction: Tremor,0.0015,-0.11958,non-serious
+ing_CONESTAT_ALFA,Conestat Alfa,0.00149,-0.65362,non-serious
+rx_Skin_exfoliation,Reaction: Skin exfoliation,0.00148,-0.17957,non-serious
+ing_FLUTICASONE_PROPIONATE,Fluticasone Propionate,0.00147,-0.39199,non-serious
+ing_BOSUTINIB_MONOHYDRATE,Bosutinib Monohydrate,0.00146,-0.65158,non-serious
+ing_ENZALUTAMIDE,Enzalutamide,0.00145,0.28085,serious
+rx_Burning_sensation,Reaction: Burning sensation,0.00145,-0.26461,non-serious
+ing_VIBEGRON,Vibegron,0.00145,-0.70821,non-serious
+ing_ELEXACAFTOR_IVACAFTOR_TEZACAFTOR,Elexacaftor + Ivacaftor + Tezacaftor,0.00145,-0.29484,non-serious
+ing_ABROCITINIB,Abrocitinib,0.00144,-0.55872,non-serious
+ing_AZACITIDINE,Azacitidine,0.00143,0.47661,serious
+ing_MEPOLIZUMAB,Mepolizumab,0.00143,-0.07508,non-serious
+rx_Dry_eye,Reaction: Dry eye,0.00142,-0.16541,non-serious
+ing_LAMOTRIGINE,Lamotrigine,0.00142,0.17971,serious
+ing_ETOPOSIDE,Etoposide,0.00142,0.47059,serious
+rx_Palpitations,Reaction: Palpitations,0.00141,0.12287,serious
+ing_PROPOFOL,Propofol,0.0014,0.56259,serious
+ing_AZATHIOPRINE,Azathioprine,0.00138,0.28178,serious
+ing_DAPAGLIFLOZIN_PROPANEDIOL,Dapagliflozin Propanediol,0.00136,-0.43684,non-serious
+ing_DOCETAXEL,Docetaxel,0.00135,0.30028,serious
+ing_BUDESONIDE,Budesonide,0.00134,-0.18399,non-serious
+rx_Recalled_product_administered,Reaction: Recalled product administered,0.00134,-0.27347,non-serious
+ing_CETUXIMAB,Cetuximab,0.00133,1.04074,serious
+rx_Therapeutic_product_effect_incomplete,Reaction: Therapeutic product effect incomplete,0.00133,-0.08512,non-serious
+rx_Injection_site_swelling,Reaction: Injection site swelling,0.00132,-0.1579,non-serious
+ing_MYCOPHENOLIC_ACID,Mycophenolic Acid,0.00131,0.4119,serious
+ing_CALCIUM_CHLORIDE_DEXTROSE_MAGNESIUM_CHLORIDE_SODIUM_CHLORIDE_SODIUM_LACTATE,Calcium Chloride + Dextrose + Magnesium Chloride + Sodium Chloride + Sodium Lactate,0.0013,0.39026,serious
+ing_ALPHA_1_PROTEINASE_INHIBITOR_HUMAN,.Alpha.1-Proteinase Inhibitor Human,0.0013,-0.34384,non-serious
+ing_PONATINIB,Ponatinib,0.00129,1.16253,serious
+rx_Device_difficult_to_use,Reaction: Device difficult to use,0.00127,-0.18015,non-serious
+rx_Viral_infection,Reaction: Viral infection,0.00126,0.24404,serious
+ing_RIOCIGUAT,Riociguat,0.00123,0.30184,serious
+ing_INTERFERON_BETA_1A,Interferon Beta-1A,0.00123,-0.19863,non-serious
+ing_CARBAMAZEPINE,Carbamazepine,0.00122,0.37416,serious
+ing_ESTROGENS_CONJUGATED,"Estrogens, Conjugated",0.00121,-0.53724,non-serious
+ing_METHYLPREDNISOLONE_SODIUM_SUCCINATE,Methylprednisolone Sodium Succinate,0.00121,0.48256,serious
+rx_Treatment_failure,Reaction: Treatment failure,0.00121,-0.11034,non-serious
+ing_CANDESARTAN,Candesartan,0.00118,0.6227,serious
+ing_RISANKIZUMAB,Risankizumab,0.00118,-0.64737,non-serious
+ing_ETRASIMOD_ARGININE,Etrasimod Arginine,0.00117,-0.82434,non-serious
+ing_RIVAROXABAN,Rivaroxaban,0.00116,0.18048,serious
+ing_TRIAMCINOLONE_ACETONIDE,Triamcinolone Acetonide,0.00115,-0.27649,non-serious
+ing_AMPHOTERICIN_B,Amphotericin B,0.00115,1.05558,serious
+rx_Dry_mouth,Reaction: Dry mouth,0.00115,-0.10191,non-serious
+ing_BLINATUMOMAB,Blinatumomab,0.00114,0.7525,serious
+ing_LIRAGLUTIDE,Liraglutide,0.00114,-0.22642,non-serious
+ing_SULFAMETHOXAZOLE_TRIMETHOPRIM,Sulfamethoxazole + Trimethoprim,0.00113,0.24126,serious
+ing_ALCOHOL,Alcohol,0.00113,0.41623,serious
+ing_BRIVARACETAM,Brivaracetam,0.00112,-0.34504,non-serious
+rx_Blood_cholesterol_increased,Reaction: Blood cholesterol increased,0.00111,-0.17998,non-serious
+ing_AFLIBERCEPT,Aflibercept,0.0011,0.4798,serious
+rx_Skin_burning_sensation,Reaction: Skin burning sensation,0.00109,-0.2382,non-serious
+ing_ACETAMINOPHEN_OXYCODONE_HYDROCHLORIDE,Acetaminophen + Oxycodone Hydrochloride,0.00109,0.37654,serious
+rx_Eczema,Reaction: Eczema,0.00108,-0.09021,non-serious
+ing_ETANERCEPT_SZZS,Etanercept-Szzs,0.00108,1.17669,serious
+ing_METOPROLOL,Metoprolol,0.00107,-0.17498,non-serious
+ing_VITAMINS,Vitamins,0.00107,-0.1955,non-serious
+rx_Fluid_retention,Reaction: Fluid retention,0.00106,0.17868,serious
+ing_IPILIMUMAB,Ipilimumab,0.00105,0.23725,serious
+ing_OSILODROSTAT_PHOSPHATE,Osilodrostat Phosphate,0.00104,-0.89518,non-serious
+ing_GEMCITABINE,Gemcitabine,0.00102,0.40566,serious
+rx_Haemorrhage,Reaction: Haemorrhage,0.00101,-0.03725,non-serious
+ing_HYDROCORTISONE,Hydrocortisone,0.00101,0.25251,serious
+rx_Flushing,Reaction: Flushing,0.001,-0.13403,non-serious
+rx_Malaise,Reaction: Malaise,0.00099,-0.00663,non-serious
+ing_SELINEXOR,Selinexor,0.00099,-0.5696,non-serious
+ing_VENLAFAXINE_HYDROCHLORIDE,Venlafaxine Hydrochloride,0.00098,0.19443,serious
+rx_Throat_irritation,Reaction: Throat irritation,0.00098,-0.15688,non-serious
+ing_ROSUVASTATIN,Rosuvastatin,0.00098,0.11531,serious
+ing_ZOPICLONE,Zopiclone,0.00095,0.89105,serious
+rx_Rash_macular,Reaction: Rash macular,0.00094,-0.165,non-serious
+ing_DIAZEPAM,Diazepam,0.00093,0.17171,serious
+rx_Injury,Reaction: Injury,0.00092,0.17581,serious
+ing_AMBRISENTAN,Ambrisentan,0.00091,0.09748,serious
+ing_CYTARABINE,Cytarabine,0.00091,0.39676,serious
+ing_CLOPIDOGREL_BISULFATE,Clopidogrel Bisulfate,0.00091,0.15631,serious
+rx_Therapeutic_product_effect_decreased,Reaction: Therapeutic product effect decreased,0.0009,-0.14262,non-serious
+ing_INSULIN_DEGLUDEC,Insulin Degludec,0.00089,0.27568,serious
+rx_Exposure_via_skin_contact,Reaction: Exposure via skin contact,0.00089,-0.09835,non-serious
+rx_Weight_decreased,Reaction: Weight decreased,0.00088,0.02332,serious
+rx_Tinnitus,Reaction: Tinnitus,0.00088,-0.07801,non-serious
+ing_AMLODIPINE_BESYLATE,Amlodipine Besylate,0.00087,0.05152,serious
+rx_Vision_blurred,Reaction: Vision blurred,0.00087,-0.05582,non-serious
+rx_Osteoporosis,Reaction: Osteoporosis,0.00087,0.18547,serious
+rx_Stomatitis,Reaction: Stomatitis,0.00086,-0.09071,non-serious
+ing_LUTETIUM_OXODOTREOTIDE_LU_177,Lutetium Oxodotreotide Lu-177,0.00086,-0.27978,non-serious
+ing_RIFAXIMIN,Rifaximin,0.00085,0.56882,serious
+rx_Loss_of_personal_independence_in_daily_activities,Reaction: Loss of personal independence in daily activities,0.00084,0.09916,serious
+ing_METRONIDAZOLE,Metronidazole,0.00084,0.2889,serious
+ing_OXYCODONE_HYDROCHLORIDE,Oxycodone Hydrochloride,0.00084,-0.2508,non-serious
+rx_Muscle_spasms,Reaction: Muscle spasms,0.00084,-0.05029,non-serious
+rx_Heart_rate_increased,Reaction: Heart rate increased,0.00083,0.0534,serious
+ing_FENTANYL,Fentanyl,0.00083,0.14194,serious
+ing_EMPAGLIFLOZIN,Empagliflozin,0.00081,-0.08443,non-serious
+rx_Intentional_dose_omission,Reaction: Intentional dose omission,0.00081,-0.07182,non-serious
+rx_Gait_inability,Reaction: Gait inability,0.0008,0.12395,serious
+ing_AXICABTAGENE_CILOLEUCEL,Axicabtagene Ciloleucel,0.0008,0.70296,serious
+ing_AMIODARONE,Amiodarone,0.0008,0.39536,serious
+ing_ACETAMINOPHEN_ASPIRIN_CAFFEINE,Acetaminophen + Aspirin + Caffeine,0.0008,-0.42108,non-serious
+ing_IRINOTECAN,Irinotecan,0.00077,0.41245,serious
+ing_HYDROXYCHLOROQUINE,Hydroxychloroquine,0.00076,0.17149,serious
+ing_VINCRISTINE,Vincristine,0.00076,0.52211,serious
+rx_Memory_impairment,Reaction: Memory impairment,0.00076,-0.04768,non-serious
+ing_DAROLUTAMIDE,Darolutamide,0.00075,0.28385,serious
+ing_FOSCARBIDOPA_FOSLEVODOPA,Foscarbidopa + Foslevodopa,0.00075,0.22586,serious
+rx_Respiratory_tract_infection,Reaction: Respiratory tract infection,0.00074,0.13605,serious
+rx_Abdominal_pain_upper,Reaction: Abdominal pain upper,0.00074,-0.02741,non-serious
+rx_Somnolence,Reaction: Somnolence,0.00073,-0.03143,non-serious
+rx_Urticaria,Reaction: Urticaria,0.00073,0.02371,serious
+ing_BELUMOSUDIL,Belumosudil,0.00072,-0.33463,non-serious
+ing_DEUTETRABENAZINE,Deutetrabenazine,0.00072,-0.2282,non-serious
+ing_TRAMADOL,Tramadol,0.00072,0.18038,serious
+ing_UBLITUXIMAB,Ublituximab,0.00071,-0.58399,non-serious
+ing_FULVESTRANT,Fulvestrant,0.00071,0.19877,serious
+ing_DASATINIB,Dasatinib,0.0007,-0.23051,non-serious
+ing_METHYLPREDNISOLONE,Methylprednisolone,0.0007,0.08664,serious
+ing_LETROZOLE,Letrozole,0.00067,0.09214,serious
+ing_ADALIMUMAB_BWWD,Adalimumab-Bwwd,0.00067,-0.45829,non-serious
+rx_Therapy_non_responder,Reaction: Therapy non-responder,0.00067,0.06251,serious
+ing_CILTACABTAGENE_AUTOLEUCEL,Ciltacabtagene Autoleucel,0.00066,0.20131,serious
+rx_Depression,Reaction: Depression,0.00066,-0.03114,non-serious
+ing_CALCIUM_OXYBATE_MAGNESIUM_OXYBATE_POTASSIUM_OXYBATE_SODIUM_OXYBATE,Calcium Oxybate + Magnesium Oxybate + Potassium Oxybate + Sodium Oxybate,0.00064,0.1914,serious
+rx_Asthenia,Reaction: Asthenia,0.00064,-0.00624,non-serious
+ing_LIDOCAINE,Lidocaine,0.00063,-0.18385,non-serious
+rx_Depressed_mood,Reaction: Depressed mood,0.0006,0.06185,serious
+ing_ESOMEPRAZOLE,Esomeprazole,0.0006,0.22681,serious
+ing_NINTEDANIB,Nintedanib,0.0006,0.1127,serious
+ing_ACETAMINOPHEN_CODEINE_PHOSPHATE,Acetaminophen + Codeine Phosphate,0.0006,0.3041,serious
+ing_ADALIMUMAB_ADAZ,Adalimumab-Adaz,0.00059,0.22585,serious
+ing_TICAGRELOR,Ticagrelor,0.00058,0.43779,serious
+rx_Gait_disturbance,Reaction: Gait disturbance,0.00057,-0.0303,non-serious
+ing_LOSARTAN,Losartan,0.00057,-0.08959,non-serious
+ing_DALFAMPRIDINE,Dalfampridine,0.00057,-0.5019,non-serious
+ing_LACOSAMIDE,Lacosamide,0.00057,0.14221,serious
+ing_LORLATINIB,Lorlatinib,0.00056,0.22124,serious
+rx_Paraesthesia,Reaction: Paraesthesia,0.00055,-0.04018,non-serious
+rx_Illness,Reaction: Illness,0.00055,0.00052,serious
+rx_Joint_swelling,Reaction: Joint swelling,0.00053,-0.04363,non-serious
+ing_FINGOLIMOD,Fingolimod,0.00053,-0.14753,non-serious
+ing_HEPARIN_SODIUM,Heparin Sodium,0.00053,0.1454,serious
+ing_ASFOTASE_ALFA,Asfotase Alfa,0.00053,0.30763,serious
+ing_SILDENAFIL_CITRATE,Sildenafil Citrate,0.00053,0.32359,serious
+rx_Chest_discomfort,Reaction: Chest discomfort,0.00052,0.03821,serious
+ing_ADALIMUMAB_AFZB,Adalimumab-Afzb,0.00052,0.25686,serious
+rx_Blood_glucose_increased,Reaction: Blood glucose increased,0.00051,-0.01654,non-serious
+ing_ENFORTUMAB_VEDOTIN_EJFV,Enfortumab Vedotin-Ejfv,0.00051,0.27763,serious
+ing_PERINDOPRIL,Perindopril,0.0005,0.58811,serious
+ing_MAGNESIUM,Magnesium,0.0005,-0.19753,non-serious
+rx_Pain_in_extremity,Reaction: Pain in extremity,0.0005,-0.01355,non-serious
+ing_CYCLOSPORINE,Cyclosporine,0.00048,-0.04012,non-serious
+rx_Drug_intolerance,Reaction: Drug intolerance,0.00045,-0.03222,non-serious
+ing_LINACLOTIDE,Linaclotide,0.00044,-0.16455,non-serious
+ing_VALPROATE_SODIUM,Valproate Sodium,0.00044,0.43008,serious
+ing_NAPROXEN_SODIUM,Naproxen Sodium,0.00044,-0.18216,non-serious
+rx_Dyspepsia,Reaction: Dyspepsia,0.00044,-0.02595,non-serious
+ing_CEFTRIAXONE,Ceftriaxone,0.00044,0.25096,serious
+ing_MORPHINE,Morphine,0.00044,0.23902,serious
+rx_Myalgia,Reaction: Myalgia,0.00043,0.01753,serious
+ing_CARBIDOPA_LEVODOPA,Carbidopa + Levodopa,0.00042,-0.00713,non-serious
+ing_CITALOPRAM,Citalopram,0.00042,0.10938,serious
+ing_METHYLPHENIDATE,Methylphenidate,0.00041,-0.28906,non-serious
+ing_BINIMETINIB,Binimetinib,0.00041,-0.23213,non-serious
+ing_GOLIMUMAB,Golimumab,0.0004,0.03379,serious
+rx_Back_pain,Reaction: Back pain,0.0004,-0.0006,non-serious
+ing_SOTATERCEPT,Sotatercept,0.00039,-0.19246,non-serious
+rx_Upper_respiratory_tract_infection,Reaction: Upper respiratory tract infection,0.00038,-0.05581,non-serious
+ing_BARICITINIB,Baricitinib,0.00037,-0.2884,non-serious
+ing_ALBUTEROL,Albuterol,0.00037,-0.04088,non-serious
+ing_TAFAMIDIS,Tafamidis,0.00036,-0.10287,non-serious
+rx_Chills,Reaction: Chills,0.00035,-0.0169,non-serious
+ing_CAPECITABINE,Capecitabine,0.00034,-0.02292,non-serious
+ing_METHOTREXATE_SODIUM,Methotrexate Sodium,0.00034,0.04835,serious
+ing_FISH_OIL,Fish Oil,0.00034,-0.2479,non-serious
+ing_EMTRICITABINE_TENOFOVIR_DISOPROXIL_FUMARATE,Emtricitabine + Tenofovir Disoproxil Fumarate,0.00032,-0.10975,non-serious
+ing_BICTEGRAVIR_SODIUM_EMTRICITABINE_TENOFOVIR_ALAFENAMIDE_FUMARATE,Bictegravir Sodium + Emtricitabine + Tenofovir Alafenamide Fumarate,0.00031,-0.13225,non-serious
+rx_Mobility_decreased,Reaction: Mobility decreased,0.00031,0.02304,serious
+ing_ONDANSETRON,Ondansetron,0.00031,-0.04606,non-serious
+ing_OXYMETAZOLINE_HYDROCHLORIDE,Oxymetazoline Hydrochloride,0.00031,0.24887,serious
+ing_FUROSEMIDE,Furosemide,0.00031,0.0194,serious
+ing_VALGANCICLOVIR,Valganciclovir,0.00031,0.47806,serious
+ing_EZETIMIBE,Ezetimibe,0.0003,-0.05048,non-serious
+ing_MEDROXYPROGESTERONE_ACETATE,Medroxyprogesterone Acetate,0.0003,0.01465,serious
+rx_Oedema,Reaction: Oedema,0.0003,0.05098,serious
+ing_OBINUTUZUMAB,Obinutuzumab,0.0003,-0.14921,non-serious
+rx_Influenza_like_illness,Reaction: Influenza like illness,0.00029,-0.03599,non-serious
+ing_LEVOTHYROXINE,Levothyroxine,0.00028,-0.03333,non-serious
+ing_TEMOZOLOMIDE,Temozolomide,0.00028,-0.05436,non-serious
+rx_Brain_fog,Reaction: Brain fog,0.00028,-0.01109,non-serious
+ing_AZITHROMYCIN,Azithromycin,0.00027,0.05202,serious
+ing_CEPHALEXIN,Cephalexin,0.00027,-0.14591,non-serious
+ing_APALUTAMIDE,Apalutamide,0.00027,0.07596,serious
+ing_METFORMIN_HYDROCHLORIDE,Metformin Hydrochloride,0.00026,-0.00134,non-serious
+rx_Psoriasis,Reaction: Psoriasis,0.00026,-0.01299,non-serious
+rx_Intentional_product_use_issue,Reaction: Intentional product use issue,0.00026,-0.00031,non-serious
+ing_PAROXETINE,Paroxetine,0.00025,0.22699,serious
+rx_Treatment_noncompliance,Reaction: Treatment noncompliance,0.00024,-0.02133,non-serious
+ing_MYCOPHENOLATE_SODIUM,Mycophenolate Sodium,0.00024,0.19942,serious
+rx_Blood_creatinine_increased,Reaction: Blood creatinine increased,0.00023,-0.06023,non-serious
+ing_TOBRAMYCIN,Tobramycin,0.00023,0.2039,serious
+rx_Blister,Reaction: Blister,0.00022,-0.01175,non-serious
+ing_LINEZOLID,Linezolid,0.00022,-0.0313,non-serious
+rx_Visual_impairment,Reaction: Visual impairment,0.00022,0.00639,serious
+ing_RISPERIDONE,Risperidone,0.00022,-0.02482,non-serious
+ing_INCLISIRAN_SODIUM,Inclisiran Sodium,0.00022,-0.06823,non-serious
+ing_TIVOZANIB_HYDROCHLORIDE,Tivozanib Hydrochloride,0.00022,0.04983,serious
+ing_AMOXICILLIN,Amoxicillin,0.00021,0.03824,serious
+ing_HUMAN_IMMUNOGLOBULIN_G_HYALURONIDASE_HUMAN_RECOMBINANT,Human Immunoglobulin G + Hyaluronidase (Human Recombinant),0.00021,-0.06044,non-serious
+ing_USTEKINUMAB,Ustekinumab,0.00021,-0.00903,non-serious
+rx_Amnesia,Reaction: Amnesia,0.00021,-0.03008,non-serious
+rx_Peripheral_swelling,Reaction: Peripheral swelling,0.0002,-0.009,non-serious
+ing_BISOPROLOL_FUMARATE,Bisoprolol Fumarate,0.00019,0.1509,serious
+rx_Insurance_issue,Reaction: Insurance issue,0.00019,0.00764,serious
+ing_QUETIAPINE_FUMARATE,Quetiapine Fumarate,0.00018,-0.01154,non-serious
+rx_Hypersensitivity,Reaction: Hypersensitivity,0.00018,0.00306,serious
+ing_GEMCITABINE_HYDROCHLORIDE,Gemcitabine Hydrochloride,0.00018,0.10619,serious
+ing_AMIVANTAMAB_VMJW,Amivantamab-Vmjw,0.00018,-0.07286,non-serious
+rx_White_blood_cell_count_decreased,Reaction: White blood cell count decreased,0.00017,-0.00802,non-serious
+ing_ASPIRIN,Aspirin,0.00017,-0.00423,non-serious
+ing_RILPIVIRINE,Rilpivirine,0.00016,-0.02543,non-serious
+rx_Oropharyngeal_pain,Reaction: Oropharyngeal pain,0.00016,-0.01133,non-serious
+rx_Hyperhidrosis,Reaction: Hyperhidrosis,0.00016,-0.01013,non-serious
+rx_Hypoaesthesia,Reaction: Hypoaesthesia,0.00016,-0.00976,non-serious
+ing_LANADELUMAB_FLYO,Lanadelumab-Flyo,0.00016,-0.06037,non-serious
+ing_PROPRANOLOL_HYDROCHLORIDE,Propranolol Hydrochloride,0.00016,0.04536,serious
+rx_Hypoacusis,Reaction: Hypoacusis,0.00016,-0.00326,non-serious
+ing_EVEROLIMUS,Everolimus,0.00016,0.06752,serious
+ing_FARICIMAB_SVOA,Faricimab-Svoa,0.00015,-0.08134,non-serious
+ing_VITAMIN_D_NOS,Vitamin D Nos,0.00015,-0.06088,non-serious
+ing_SILDENAFIL,Sildenafil,0.00015,0.0761,serious
+ing_PALIPERIDONE_PALMITATE,Paliperidone Palmitate,0.00014,-0.04917,non-serious
+ing_IBUPROFEN,Ibuprofen,0.00014,-0.0034,non-serious
+ing_COCAINE,Cocaine,0.00013,0.09866,serious
+ing_BUSULFAN,Busulfan,0.00013,-0.01267,non-serious
+ing_VALSARTAN,Valsartan,0.00013,0.03265,serious
+ing_ONDANSETRON_HYDROCHLORIDE,Ondansetron Hydrochloride,0.00013,-0.08481,non-serious
+ing_AMOXICILLIN_CLAVULANIC_ACID,Amoxicillin + Clavulanic Acid,0.00013,0.08476,serious
+ing_TAMSULOSIN,Tamsulosin,0.00013,0.04708,serious
+rx_Unevaluable_event,Reaction: Unevaluable event,0.00012,0.00222,serious
+ing_BUSPIRONE_HYDROCHLORIDE,Buspirone Hydrochloride,0.00012,-0.08728,non-serious
+ing_LANADELUMAB,Lanadelumab,0.00012,0.04642,serious
+ing_METOPROLOL_SUCCINATE,Metoprolol Succinate,0.00012,-0.00085,non-serious
+ing_VALPROIC_ACID,Valproic Acid,0.00012,0.06039,serious
+ing_MELOXICAM,Meloxicam,0.00012,-0.09152,non-serious
+rx_Arthritis,Reaction: Arthritis,0.00012,-0.01085,non-serious
+ing_SULFASALAZINE,Sulfasalazine,0.00012,0.04915,serious
+rx_Contusion,Reaction: Contusion,0.00012,-0.00474,non-serious
+rx_Erythema,Reaction: Erythema,0.00011,-0.00177,non-serious
+ing_TRAMADOL_HYDROCHLORIDE,Tramadol Hydrochloride,0.00011,0.07122,serious
+ing_MORPHINE_SULFATE,Morphine Sulfate,1e-04,-0.02431,non-serious
+ing_TADALAFIL,Tadalafil,1e-04,-0.00767,non-serious
+ing_IRBESARTAN,Irbesartan,1e-04,0.0607,serious
+ing_OMEPRAZOLE,Omeprazole,9e-05,0.01147,serious
+rx_Abdominal_distension,Reaction: Abdominal distension,9e-05,-0.01049,non-serious
+rx_Productive_cough,Reaction: Productive cough,9e-05,0.01081,serious
+rx_Gastrointestinal_disorder,Reaction: Gastrointestinal disorder,9e-05,-0.00617,non-serious
+ing_MACITENTAN,Macitentan,9e-05,0.0086,serious
+ing_DIMETHYL_FUMARATE,Dimethyl Fumarate,9e-05,-0.02866,non-serious
+ing_CLOBAZAM,Clobazam,8e-05,0.01204,serious
+ing_TENOFOVIR_DISOPROXIL_FUMARATE,Tenofovir Disoproxil Fumarate,8e-05,0.0382,serious
+rx_Feeling_hot,Reaction: Feeling hot,8e-05,-0.00591,non-serious
+rx_Product_availability_issue,Reaction: Product availability issue,8e-05,0.00689,serious
+ing_LEUCOVORIN_CALCIUM,Leucovorin Calcium,8e-05,-0.05824,non-serious
+rx_Dysphonia,Reaction: Dysphonia,7e-05,0.00516,serious
+ing_MELPHALAN,Melphalan,7e-05,0.09578,serious
+ing_CLONAZEPAM,Clonazepam,6e-05,-0.00772,non-serious
+rx_Epistaxis,Reaction: Epistaxis,6e-05,0.00521,serious
+ing_CARFILZOMIB,Carfilzomib,6e-05,-0.00457,non-serious
+ing_SOTATERCEPT_CSRK,Sotatercept-Csrk,6e-05,-0.00499,non-serious
+rx_Vertigo,Reaction: Vertigo,6e-05,-0.0089,non-serious
+rx_Swelling_face,Reaction: Swelling face,6e-05,0.00739,serious
+rx_Impaired_quality_of_life,Reaction: Impaired quality of life,6e-05,-0.00498,non-serious
+ing_FLUDARABINE_PHOSPHATE,Fludarabine Phosphate,5e-05,-0.00727,non-serious
+ing_OXCARBAZEPINE,Oxcarbazepine,5e-05,-0.02901,non-serious
+rx_Migraine,Reaction: Migraine,5e-05,0.00066,serious
+ing_ROMOSOZUMAB_AQQG,Romosozumab-Aqqg,5e-05,0.00051,serious
+ing_CAPIVASERTIB,Capivasertib,5e-05,-0.02034,non-serious
+rx_Discomfort,Reaction: Discomfort,5e-05,-0.00662,non-serious
+ing_ALPRAZOLAM,Alprazolam,4e-05,-0.00637,non-serious
+rx_Bone_pain,Reaction: Bone pain,4e-05,0.00071,serious
+rx_Alanine_aminotransferase_increased,Reaction: Alanine aminotransferase increased,4e-05,-0.00267,non-serious
+rx_Rash_erythematous,Reaction: Rash erythematous,4e-05,-0.00791,non-serious
+ing_PANTOPRAZOLE,Pantoprazole,4e-05,-0.00425,non-serious
+rx_Wheezing,Reaction: Wheezing,4e-05,0.00084,serious
+ing_PERTUZUMAB,Pertuzumab,4e-05,-0.01046,non-serious
+rx_Intentional_product_misuse,Reaction: Intentional product misuse,4e-05,-0.00169,non-serious
+ing_DENOSUMAB,Denosumab,4e-05,-0.00022,non-serious
+rx_Stress,Reaction: Stress,4e-05,-0.00239,non-serious
+ing_ALENDRONATE_SODIUM,Alendronate Sodium,4e-05,-0.01317,non-serious
+ing_ROSUVASTATIN_CALCIUM,Rosuvastatin Calcium,4e-05,-0.00845,non-serious
+ing_TERIPARATIDE,Teriparatide,4e-05,0.00301,serious
+ing_FLUOXETINE_HYDROCHLORIDE,Fluoxetine Hydrochloride,4e-05,0.00375,serious
+rx_Therapeutic_response_decreased,Reaction: Therapeutic response decreased,3e-05,-0.00031,non-serious
+rx_Eye_pain,Reaction: Eye pain,3e-05,0.00151,serious
+ing_LORAZEPAM,Lorazepam,3e-05,-0.00443,non-serious
+ing_TEZEPELUMAB_EKKO,Tezepelumab-Ekko,3e-05,-0.01562,non-serious
+ing_BUDESONIDE_FORMOTEROL_FUMARATE_DIHYDRATE,Budesonide + Formoterol Fumarate Dihydrate,3e-05,0.00181,serious
+ing_ESCITALOPRAM_OXALATE,Escitalopram Oxalate,3e-05,-0.00335,non-serious
+ing_AXITINIB,Axitinib,3e-05,-0.00721,non-serious
+rx_Dyspnoea_exertional,Reaction: Dyspnoea exertional,3e-05,-0.00198,non-serious
+ing_ALLOPURINOL,Allopurinol,3e-05,-0.00471,non-serious
+ing_TOPIRAMATE,Topiramate,3e-05,0.0046,serious
+ing_CLOBETASOL,Clobetasol,3e-05,0.00053,serious
+rx_Limb_injury,Reaction: Limb injury,3e-05,-0.00089,non-serious
+ing_SODIUM_CHLORIDE,Sodium Chloride,3e-05,-0.00071,non-serious
+rx_Bronchitis,Reaction: Bronchitis,3e-05,-0.00081,non-serious
+rx_Swelling,Reaction: Swelling,3e-05,-0.00283,non-serious
+ing_CELECOXIB,Celecoxib,2e-05,0.00021,serious
+ing_DULOXETINE_HYDROCHLORIDE,Duloxetine Hydrochloride,2e-05,-0.0006,non-serious
+ing_DIVALPROEX_SODIUM,Divalproex Sodium,2e-05,-0.01254,non-serious
+ing_ANASTROZOLE,Anastrozole,2e-05,-0.00031,non-serious
+ing_METHAMPHETAMINE,Methamphetamine,2e-05,0.003,serious
+ing_ENCORAFENIB,Encorafenib,2e-05,-0.00929,non-serious
+ing_BUPROPION,Bupropion,2e-05,0.00138,serious
+ing_DIPHENHYDRAMINE,Diphenhydramine,2e-05,-0.00047,non-serious
+ing_ATENOLOL,Atenolol,2e-05,-0.00634,non-serious
+ing_ACYCLOVIR,Acyclovir,2e-05,-0.00159,non-serious
+ing_FAM_TRASTUZUMAB_DERUXTECAN_NXKI,Fam-Trastuzumab Deruxtecan-Nxki,2e-05,-0.00665,non-serious
+rx_Ear_infection,Reaction: Ear infection,2e-05,-0.00118,non-serious
+ing_VORTIOXETINE_HYDROBROMIDE,Vortioxetine Hydrobromide,2e-05,-0.00727,non-serious
+ing_HYDROXYZINE_HYDROCHLORIDE,Hydroxyzine Hydrochloride,2e-05,0.00519,serious
+rx_Balance_disorder,Reaction: Balance disorder,2e-05,0.00107,serious
+ing_METHADONE_HYDROCHLORIDE,Methadone Hydrochloride,2e-05,-0.00064,non-serious
+rx_Musculoskeletal_stiffness,Reaction: Musculoskeletal stiffness,1e-05,0.0014,serious
+ing_UNSPECIFIED_INGREDIENT,Unspecified Ingredient,1e-05,-0.00044,non-serious
+ing_TOZINAMERAN,Tozinameran,1e-05,0.0,serious
+rx_Gastrooesophageal_reflux_disease,Reaction: Gastrooesophageal reflux disease,1e-05,-0.0004,non-serious
+ing_CYANOCOBALAMIN,Cyanocobalamin,1e-05,-0.00028,non-serious
+ing_PANITUMUMAB,Panitumumab,1e-05,0.01119,serious
+rx_Cognitive_disorder,Reaction: Cognitive disorder,1e-05,-0.00015,non-serious
+rx_Sleep_disorder,Reaction: Sleep disorder,1e-05,-0.00016,non-serious
+ing_HYDROXYCHLOROQUINE_SULFATE,Hydroxychloroquine Sulfate,1e-05,-0.00023,non-serious
+rx_Herpes_zoster,Reaction: Herpes zoster,1e-05,-0.00038,non-serious
+rx_Rash_pruritic,Reaction: Rash pruritic,1e-05,-0.00069,non-serious
+ing_TRAZODONE_HYDROCHLORIDE,Trazodone Hydrochloride,1e-05,-0.00026,non-serious
+ing_CALCIUM,Calcium,1e-05,0.00278,serious
+ing_ICATIBANT_ACETATE,Icatibant Acetate,1e-05,0.00136,serious
+ing_ELTROMBOPAG_OLAMINE,Eltrombopag Olamine,1e-05,2e-05,serious
+ing_ERENUMAB_AOOE,Erenumab-Aooe,1e-05,0.00014,serious
+ing_HYDROCHLOROTHIAZIDE,Hydrochlorothiazide,1e-05,-1e-05,non-serious
+ing_PROGESTERONE,Progesterone,1e-05,-0.00615,non-serious
+ing_IRINOTECAN_HYDROCHLORIDE,Irinotecan Hydrochloride,1e-05,-0.00478,non-serious
+rx_Night_sweats,Reaction: Night sweats,1e-05,-0.00028,non-serious
+ing_AMITRIPTYLINE,Amitriptyline,1e-05,-0.00035,non-serious
+ing_FLUTICASONE_PROPIONATE_SALMETEROL_XINAFOATE,Fluticasone Propionate + Salmeterol Xinafoate,1e-05,0.00015,serious
+rx_Inflammation,Reaction: Inflammation,1e-05,0.00033,serious
+ing_NAPROXEN,Naproxen,0.0,-0.00015,non-serious
+ing_SPIRONOLACTONE,Spironolactone,0.0,0.00094,serious
+ing_ASCORBIC_ACID,Ascorbic Acid,0.0,-0.00055,non-serious
+ing_ENOXAPARIN_SODIUM,Enoxaparin Sodium,0.0,-0.00017,non-serious
+ing_CLINDAMYCIN,Clindamycin,0.0,-6e-05,non-serious
+rx_Hepatic_enzyme_increased,Reaction: Hepatic enzyme increased,0.0,1e-05,serious
+ing_FREMANEZUMAB_VFRM,Fremanezumab-Vfrm,0.0,3e-05,serious
+ing_ALENDRONIC_ACID,Alendronic Acid,0.0,0.0,depends on value
+ing_COVID_19_VACCINE,Covid-19 Vaccine,0.0,0.0,depends on value
+rx_Wound,Reaction: Wound,0.0,0.0,depends on value
+ing_COSMETICS,Cosmetics,0.0,0.0,depends on value
+rx_Lethargy,Reaction: Lethargy,0.0,0.0,depends on value
+ing_VINCRISTINE_SULFATE,Vincristine Sulfate,0.0,0.0,depends on value
+ing_ABIRATERONE_ACETATE,Abiraterone Acetate,0.0,0.0,depends on value
+ing_PEMETREXED_DISODIUM,Pemetrexed Disodium,0.0,0.0,depends on value
+ing_CLONIDINE,Clonidine,0.0,0.0,depends on value
+ing_CHOLECALCIFEROL_ERGOCALCIFEROL,Cholecalciferol + Ergocalciferol,0.0,0.0,depends on value
+rx_Fibromyalgia,Reaction: Fibromyalgia,0.0,0.0,depends on value
+ing_TRAMETINIB_DIMETHYL_SULFOXIDE,Trametinib Dimethyl Sulfoxide,0.0,0.0,depends on value
+ing_AMOXICILLIN_CLAVULANATE_POTASSIUM,Amoxicillin + Clavulanate Potassium,0.0,0.0,depends on value
+ing_DOXORUBICIN_HYDROCHLORIDE,Doxorubicin Hydrochloride,0.0,0.0,depends on value
+ing_LENVATINIB_MESYLATE,Lenvatinib Mesylate,0.0,0.0,depends on value
+ing_INSULIN_HUMAN,Insulin Human,0.0,0.0,depends on value
+ing_FLUCONAZOLE,Fluconazole,0.0,0.0,depends on value
+ing_POTASSIUM_CHLORIDE,Potassium Chloride,0.0,0.0,depends on value
+ing_INSULIN_NOS,Insulin Nos,0.0,0.0,depends on value
+ing_URSODIOL,Ursodiol,0.0,0.0,depends on value
+ing_COLCHICINE,Colchicine,0.0,0.0,depends on value
+ing_TAMSULOSIN_HYDROCHLORIDE,Tamsulosin Hydrochloride,0.0,0.0,depends on value
+ing_RIFAMPIN,Rifampin,0.0,0.0,depends on value
+ing_LEUCOVORIN_LEUCOVORIN_CALCIUM,Leucovorin + Leucovorin Calcium,0.0,0.0,depends on value
+ing_LOSARTAN_POTASSIUM,Losartan Potassium,0.0,0.0,depends on value
+ing_DILTIAZEM,Diltiazem,0.0,0.0,depends on value
+ing_TIOTROPIUM_BROMIDE_MONOHYDRATE,Tiotropium Bromide Monohydrate,0.0,0.0,depends on value
+ing_BRENTUXIMAB_VEDOTIN,Brentuximab Vedotin,0.0,0.0,depends on value
+ing_GLATIRAMER_ACETATE,Glatiramer Acetate,0.0,0.0,depends on value
+ing_MONTELUKAST,Montelukast,0.0,0.0,depends on value
+ing_DOLUTEGRAVIR_SODIUM_LAMIVUDINE,Dolutegravir Sodium + Lamivudine,0.0,0.0,depends on value
+ing_ATOGEPANT,Atogepant,0.0,0.0,depends on value
+ing_CORTISONE,Cortisone,0.0,0.0,depends on value
+ing_SIROLIMUS,Sirolimus,0.0,0.0,depends on value
+ing_ROTIGOTINE,Rotigotine,0.0,0.0,depends on value
+ing_IRON,Iron,0.0,0.0,depends on value
+ing_FLUTICASONE_FUROATE_VILANTEROL_TRIFENATATE,Fluticasone Furoate + Vilanterol Trifenatate,0.0,0.0,depends on value
+ing_TESTOSTERONE,Testosterone,0.0,0.0,depends on value
+ing_CLADRIBINE,Cladribine,0.0,0.0,depends on value
+ing_OXYCODONE,Oxycodone,0.0,0.0,depends on value
+ing_SIMVASTATIN,Simvastatin,0.0,0.0,depends on value
+ing_VALACYCLOVIR_HYDROCHLORIDE,Valacyclovir Hydrochloride,0.0,0.0,depends on value
+ing_SELEXIPAG,Selexipag,0.0,0.0,depends on value
+ing_LEFLUNOMIDE,Leflunomide,0.0,0.0,depends on value
+ing_MONTELUKAST_SODIUM,Montelukast Sodium,0.0,0.0,depends on value
+ing_FEXOFENADINE_HYDROCHLORIDE,Fexofenadine Hydrochloride,0.0,0.0,depends on value
+ing_METHYLPHENIDATE_HYDROCHLORIDE,Methylphenidate Hydrochloride,0.0,0.0,depends on value
+ing_TEPROTUMUMAB_TRBW,Teprotumumab-Trbw,0.0,0.0,depends on value
+ing_CALCIUM_CARBONATE,Calcium Carbonate,0.0,0.0,depends on value
+ing_MIDAZOLAM,Midazolam,0.0,0.0,depends on value
+ing_HALOPERIDOL,Haloperidol,0.0,0.0,depends on value
+ing_METOPROLOL_TARTRATE,Metoprolol Tartrate,0.0,0.0,depends on value
+ing_CANNABIS_SATIVA_SUBSP_INDICA_TOP,Cannabis Sativa Subsp. Indica Top,0.0,0.0,depends on value
+ing_ZOLPIDEM_TARTRATE,Zolpidem Tartrate,0.0,0.0,depends on value
+rx_Frequent_bowel_movements,Reaction: Frequent bowel movements,0.0,0.0,depends on value
+ing_PANTOPRAZOLE_SODIUM,Pantoprazole Sodium,0.0,0.0,depends on value
+ing_DULOXETINE,Duloxetine,0.0,0.0,depends on value
+ing_BACLOFEN,Baclofen,0.0,0.0,depends on value
+rx_Neck_pain,Reaction: Neck pain,0.0,0.0,depends on value
+ing_CARVEDILOL,Carvedilol,0.0,0.0,depends on value
+rx_Sleep_disorder_due_to_a_general_medical_condition,Reaction: Sleep disorder due to a general medical condition,0.0,0.0,depends on value
+ing_ACETAMINOPHEN_HYDROCODONE_BITARTRATE,Acetaminophen + Hydrocodone Bitartrate,0.0,0.0,depends on value
+ing_NIFEDIPINE,Nifedipine,0.0,0.0,depends on value
+ing_EFAVIRENZ_EMTRICITABINE_TENOFOVIR_DISOPROXIL_FUMARATE,Efavirenz + Emtricitabine + Tenofovir Disoproxil Fumarate,0.0,0.0,depends on value
+ing_WARFARIN,Warfarin,0.0,0.0,depends on value
+ing_FILGRASTIM,Filgrastim,0.0,0.0,depends on value
+ing_MELATONIN,Melatonin,0.0,0.0,depends on value
+ing_FOLIC_ACID,Folic Acid,0.0,0.0,depends on value
+ing_EMTRICITABINE_TENOFOVIR_ALAFENAMIDE_FUMARATE,Emtricitabine + Tenofovir Alafenamide Fumarate,0.0,0.0,depends on value
+ing_SITAGLIPTIN_PHOSPHATE,Sitagliptin Phosphate,0.0,0.0,depends on value
+ing_BUDESONIDE_FORMOTEROL,Budesonide + Formoterol,0.0,0.0,depends on value
+ing_PROACTIV_MD_ULTRA_GENTLE_CLEANSER,Proactiv Md Ultra Gentle Cleanser,0.0,0.0,depends on value
+ing_TELMISARTAN,Telmisartan,0.0,0.0,depends on value
+rx_Impaired_healing,Reaction: Impaired healing,0.0,0.0,depends on value
+ing_UMECLIDINIUM_BROMIDE_VILANTEROL_TRIFENATATE,Umeclidinium Bromide + Vilanterol Trifenatate,0.0,0.0,depends on value
