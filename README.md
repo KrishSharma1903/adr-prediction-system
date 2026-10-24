@@ -32,7 +32,8 @@ and the details that pushed the prediction up or down.
 2. **Feature_Engineering:** 80/20 split, 809 features (age, sex, 500 ingredients, 300 reactions, counts)
 3. **Model_Training:** Random Forest, XGBoost and SVM, best chosen on a validation set
 4. **Explainability:** SHAP values for the selected model
-5. **app/app.py:** the Streamlit app
+5. **Error_Analysis:** which serious reports the model misses, and what lowering the threshold would change
+6. **app/app.py:** the Streamlit app
 
 **Leakage check:** reaction terms that restate the outcome (*Death*, *Hospitalisation*) are removed from the inputs,
 and the 13,737 reports that listed only those terms are dropped.
@@ -64,6 +65,24 @@ XGBoost catches **90% of serious reports** (38,110 of 42,262) with 88% precision
 - Product and device issues push towards **non-serious**.
 - Reports with more drugs or reactions are more often serious.
 
+### What the model gets wrong
+
+The model misses 4,152 of 42,262 serious reports (9.8%).
+
+![Drugs whose serious reports the model misses most](reports/figures/error_by_drug.png)
+
+- **Drugs with mostly mild reports.** It misses 60% of serious Dupilumab reports and 49% of serious Tirzepatide reports.
+  Most reports for these drugs are mild, so the model learned to treat the drug itself as a sign of non-serious.
+- **Short reports.** It misses 16.2% of serious single-drug reports (vs 3.7–5.0% with more drugs)
+  and 14.0% of serious reports with no age (vs about 7.7% with an age).
+- **Mostly close calls.** 53% of misses scored 30–50%, just under the threshold. Only 7% scored under 10%;
+  these are usually device or dosing problems ("No adverse event", "Device defective") filed with a serious outcome.
+
+![Effect of the decision threshold on recall and precision](reports/figures/error_threshold.png)
+
+Lowering the threshold from 0.5 to 0.4 would catch 93.0% of serious reports instead of 90.2% (1,201 fewer misses),
+at the cost of 1,627 more false alarms (precision 85.5% instead of 88.3%). The app keeps 0.5.
+
 ---
 
 ## Run it
@@ -77,7 +96,7 @@ pip install -r requirements.txt
 1. Download the **ASCII** zip for **2025 Q1** from the [FDA FAERS page](https://fis.fda.gov/extensions/FPD-QDE-FAERS/FPD-QDE-FAERS.html).
    Convert the `$`-separated DEMO, DRUG, REAC and OUTC files to CSV (`demo2025q1.csv`, `drug2025q1.csv`, ...)
    in `data/raw/2025Q1/`, and copy `DELETE25Q1.txt` there as `delete2025q1.txt`.
-2. Run the notebooks in order: `Data_Prep` → `Feature_Engineering` → `Model_Training` → `Explainability`.
+2. Run the notebooks in order: `Data_Prep` → `Feature_Engineering` → `Model_Training` → `Explainability` → `Error_Analysis`.
 3. Start the app:
 
 ```bash
